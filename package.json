@@ -1,6 +1,7 @@
 {
   "name": "@clr/angular",
   "description": "Angular components for Clarity",
+  "version": "13.0.3",
   "homepage": "https://clarity.design",
   "keywords": [
     "ng-add",
